@@ -1,0 +1,20 @@
+/* img {
+  display: none;
+} */
+
+.showing {
+  display: none;
+}
+
+.hidden {
+  display: block;
+}
+
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  text-decoration: underline;
+}
